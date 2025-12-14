@@ -41,6 +41,9 @@
 
 ### 4. TACTICAL OVERLAY FOR {{NEXT_DAY}}
 
+**Micro-Qualification:** What one thing did I do today to win my wife's heart and demonstrate covenant stewardship?
+
+
 **Priority Carryover:**
 - {{PRIORITY_CARRYOVER}}
 
