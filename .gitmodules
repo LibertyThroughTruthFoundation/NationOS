@@ -1,0 +1,3 @@
+[submodule "intel/strategic-intelligence"]
+	path = intel/strategic-intelligence
+	url = https://github.com/LibertyThroughTruthFoundation/strategic-intelligence.git
