@@ -1,0 +1,40 @@
+{
+  "protocolId": "WEB-01-B",
+  "title": "Deploy Sovereign Link Hub",
+  "description": "A protocol for creating and deploying a self-hosted link hub page.",
+  "steps": [
+    {
+      "step": 1,
+      "action": "CLONE_REPO",
+      "description": "Clone the nationos-website repository.",
+      "parameters": {
+        "repository": "LibertyThroughTruthFoundation/nationos-website"
+      }
+    },
+    {
+      "step": 2,
+      "action": "CREATE_FILE",
+      "description": "Create the links.html file from a template.",
+      "parameters": {
+        "filePath": "/links.html",
+        "template": "/templates/links.html.tpl"
+      }
+    },
+    {
+      "step": 3,
+      "action": "COMMIT_TO_GIT",
+      "description": "Commit the new page to the repository.",
+      "parameters": {
+        "commitMessage": "WEB-01: Deploy sovereign link hub page"
+      }
+    },
+    {
+      "step": 4,
+      "action": "VERIFY_DEPLOYMENT",
+      "description": "Check that the page is live on GitHub Pages.",
+      "parameters": {
+        "url": "https://libertythroughtruthfoundation.github.io/nationos-website/links.html"
+      }
+    }
+  ]
+}

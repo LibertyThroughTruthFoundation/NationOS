@@ -1,0 +1,44 @@
+{
+  "protocolId": "SPINT-02",
+  "title": "Create New Intelligence Profile",
+  "description": "A protocol for adding a new person of interest to the SPINT ledger.",
+  "steps": [
+    {
+      "step": 1,
+      "action": "CREATE_FILE",
+      "description": "Create a new Markdown file in the /intel/contacts/ directory.",
+      "parameters": {
+        "filePath": "/intel/contacts/{contact-name}.md",
+        "template": "/intel/contacts/_TEMPLATE.md"
+      }
+    },
+    {
+      "step": 2,
+      "action": "POPULATE_FIELDS",
+      "description": "Fill in the profile with the required intelligence data.",
+      "parameters": [
+        "name",
+        "profileType",
+        "status",
+        "coreThesis",
+        "strategicAnalysis"
+      ]
+    },
+    {
+      "step": 3,
+      "action": "COMMIT_TO_GIT",
+      "description": "Commit the new profile to the strategic-intelligence repository.",
+      "parameters": {
+        "commitMessage": "SPINT: Add {contact-name} profile"
+      }
+    },
+    {
+      "step": 4,
+      "action": "UPDATE_SUBMODULE",
+      "description": "Update the submodule pointer in the main NationOS Ark.",
+      "parameters": {
+        "commitMessage": "Update strategic-intelligence submodule: SPINT-02 complete"
+      }
+    }
+  ]
+}

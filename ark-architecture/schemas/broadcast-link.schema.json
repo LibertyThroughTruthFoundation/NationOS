@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Broadcast Link",
+  "description": "Data model for a single link in the Broadcast Module.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the link."
+    },
+    "title": {
+      "type": "string",
+      "description": "The main title of the link button."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "The destination URL."
+    },
+    "icon": {
+      "type": "string",
+      "description": "Emoji or icon class for the link."
+    },
+    "description": {
+      "type": "string",
+      "description": "Optional subtitle or description for the link."
+    },
+    "order": {
+      "type": "integer",
+      "description": "The display order of the link."
+    },
+    "isVisible": {
+      "type": "boolean",
+      "description": "Whether the link is currently visible to the public."
+    }
+  },
+  "required": ["id", "title", "url", "order", "isVisible"]
+}
