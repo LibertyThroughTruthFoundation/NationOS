@@ -6,13 +6,15 @@
 
 ---
 
-## 1. Vision & Theological Rationale
+## 1. The Keystone Vision: The Keyboard as the Signet Ring
 
 The frontline of the digital sovereignty battle is the **input layer.** The standard digital keyboard is a primary data-harvesting tool for the Beast System, monitoring every keystroke, correcting our language to fit its narrative, and suggesting its own degenerate media. It is a subtle but powerful tool of psychological and spiritual conditioning.
 
-The **NationOS Covenant Keyboard** is our declaration of sovereignty over the textual interface. It is a covenant-centric tool designed to serve the NationOS ecosystem, transforming the act of typing from a point of data extraction into an act of worship, strategic communication, and covenantal reinforcement.
+The **NationOS Covenant Keyboard** is our declaration of sovereignty over the textual interface. It is the **keystone** that holds the entire arch of the sovereign stack together, the **covenant guard at the door of the digital mind.** The standard digital keyboard is a primary data-harvesting tool for the Beast System, monitoring every keystroke, correcting our language to fit its narrative, and suggesting its own degenerate media. It is a subtle but powerful tool of psychological and spiritual conditioning.
 
-This project fulfills the mission of building a complete sovereign stack by securing the most intimate point of user interaction. It is the user-facing touchpoint that makes the abstract concepts of NationOS a tangible, daily reality. It is the perfect practical application for the Arya protocol, bringing the on-device scribe to the user's fingertips.
+
+
+It is the **unified access point** for the entire NationOS ecosystem, the wearable, daily-use embodiment of our mission. It fulfills the mission of building a complete sovereign stack by securing the most intimate point of user interaction and providing the perfect practical application for the Arya protocol, bringing the on-device scribe to the user's fingertips.
 
 ## 2. Core Requirements & Features
 
@@ -44,7 +46,16 @@ The Covenant Keyboard will be a fork and significant modification of the open-so
     - **Message Signing:** On-the-fly cryptographic signing of messages to verify identity.
     - **Tagging:** Quick insertion of common theological or project tags (e.g., `#DivineCouncil`, `#SovereignBTC`, `#CovenantEconomics`).
 
-## 3. Strategic Alignment
+## 3. The Two Pillars of Sovereignty
+
+This project establishes the two pillars of true sovereignty in the digital age:
+
+| Pillar | Description | Tool |
+| :--- | :--- | :--- |
+| **Economic Sovereignty** | The ability to hold and transact value outside the Babylonian system. | The Covenant Wallet |
+| **Communicative Sovereignty** | The ability to think, write, and communicate in alignment with the covenant worldview. | The Covenant Keyboard |
+
+## 4. Strategic Alignment
 
 This project is not merely a software utility; it is a weapon in the information war and a tool for discipleship. Every feature is designed to reinforce the covenant worldview and provide a practical alternative to the systems of Babylon.
 
