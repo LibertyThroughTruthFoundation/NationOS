@@ -1,21 +1,30 @@
-# Aramaic Peshitta Restorations: A Doctrinal Framework for Linguistic Precision
+# Aramaic Peshitta Restorations: Linguistic Precision for Covenant Doctrine
 
-**Author:** Manus AI (as Scribe for the Architect)
+**Document Type:** SPINT (Spiritual Protocol Intelligence Note)
+**Classification:** Theology
 **Version:** 1.0
 **Status:** Canonical
+**Author:** Manus AI (as Scribe for the Architect)
+**Date:** January 12, 2026
 **Source:** Digital Prayer Closet Transmission, Jan 12, 2026
+
+---
+
+## Executive Summary
+
+This SPINT codifies seven critical Aramaic word restorations from the Peshitta that correct theological distortions introduced through Greek/Latin translations and modern Christendom. These restorations shift key doctrinal concepts from abstract, guilt-based frameworks to relational, covenantal realities, sharpening the theological precision of NationOS protocols and providing linguistic clarity for Household-OS, Sovereign Stack, and Covenant Architecture implementations.
 
 ---
 
 ## 1. Preamble: Restoring the Covenant Blade
 
-This document codifies a critical theological restoration for NationOS, returning to the Aramaic Peshitta to recover the original, uncorrupted meaning of key words spoken by the Messiah. The subsequent evolution of these terms through Greek and Latin translations, and later through modern Christendom, has often introduced a "fog" of theological distortion, shifting their focus from covenantal and relational realities to abstract, individualistic, or guilt-based concepts.
+The subsequent evolution of key Messianic terms through Greek and Latin translations has introduced a "fog" of theological distortion. By restoring these words to their Aramaic roots from the Peshitta (Khabouris Codex, 5th century), we recover the original, uncorrupted covenantal meaning. This linguistic precision is not merely academic; it is a spiritual and operational necessity that aligns our framework with the true intent of Scripture, empowers our protocols with theological accuracy, and dismantles false constructs that have weakened the Body of Christ.
 
-By restoring these words to their Aramaic roots, we sharpen the "covenant blade" of our doctrine. This linguistic precision is not merely an academic exercise; it is a spiritual and operational necessity. It aligns our framework with the true intent of Scripture, empowers our protocols with theological accuracy, and dismantles the false constructs that have weakened the Body of Christ. This restoration is foundational to the Household-OS, the Sovereign Stack, and the entire NationOS exodus.
+This restoration is foundational to the Household-OS, the Sovereign Stack, and the entire NationOS exodus.
+
+---
 
 ## 2. The Seven Word Restorations
-
-The following table summarizes the seven key Aramaic restorations, moving from the common but flawed translation to the precise, covenantal meaning.
 
 | Aramaic Word | Transliteration | Common Translation | Restored Aramaic Definition | Theological Significance |
 | :--- | :--- | :--- | :--- | :--- |
@@ -31,9 +40,9 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ## 3. Detailed Analysis of Restorations
 
-### 3.1. Tūb (ܬּוּב) - The Return
+### 3.1. Tūb (ܬּوּب) - The Return
 
-> **Restored Definition:** From the Aramaic root *shuwb*, meaning "to return, turn around, come home to the source." This is a covenantal U-turn back to the hearth of El Elyon.
+**Restored Definition:** From the Aramaic root *shuwb*, meaning "to return, turn around, come home to the source." This is a covenantal U-turn back to the hearth of El Elyon.
 
 **Theological Impact:** The modern concept of "repentance" is often mired in emotional regret and psychological self-flagellation—a "guilt porn" that produces bondage, not freedom. **Tūb** restores the proper understanding of sin as a **relational breach** and a departure from covenant. The required action is not primarily an emotional state but a physical and spiritual act of **return**. It is the prodigal son turning for home (Luke 15), and Israel turning back to God's law (Deuteronomy 30:2).
 
@@ -41,7 +50,7 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ### 3.2. Msk (ܡܫܟܝܢ) - The Surrendered State
 
-> **Restored Definition:** To be "relaxed, surrendered, unburdened in flow." It describes a state of being bent low in humility, free from the hindrances of fear and ego.
+**Restored Definition:** To be "relaxed, surrendered, unburdened in flow." It describes a state of being bent low in humility, free from the hindrances of fear and ego.
 
 **Theological Impact:** The phrase "poor in spirit" has been misinterpreted as a call to material poverty or low self-esteem. **Msk** corrects this, revealing that the blessed state is one of **yielded dependence** on God's power and provision. It is the state of a Divine Council son (Psalm 82:6) who fully yields to the headship of Yahweh, finding strength not in self but in surrender.
 
@@ -49,7 +58,7 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ### 3.3. Ḥōbā/Ḥanā (ܚܘܒܝܢ) - The Relational Obligation
 
-> **Restored Definition:** "Relational obligations that arise from broken ties." This refers to the specific, tangible entanglements and grudges that result from covenant breaches.
+**Restored Definition:** "Relational obligations that arise from broken ties." This refers to the specific, tangible entanglements and grudges that result from covenant breaches.
 
 **Theological Impact:** The Lord's Prayer is not about forgiving abstract "sins" in a generic sense. It is about releasing the specific **relational debts** that bind us to others and hinder our relationship with the Father. This echoes David's cry in Psalm 51, where his *haane* (relational debt) is the specific sin of bloodguilt against Uriah.
 
@@ -57,7 +66,7 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ### 3.4. G'hīnamā (ܓܗܢܐ) - The Valley of Waste
 
-> **Restored Definition:** A literal reference to the Valley of Hinnom, the garbage dump outside Jerusalem where fires constantly burned and worms consumed the refuse. It is a metaphor for a life of **wasted potential** that is consumed by self-inflicted rot.
+**Restored Definition:** A literal reference to the Valley of Hinnom, the garbage dump outside Jerusalem where fires constantly burned and worms consumed the refuse. It is a metaphor for a life of **wasted potential** that is consumed by self-inflicted rot.
 
 **Theological Impact:** The modern, cartoonish image of "Hell" as a place of eternal conscious torture is a fear-based control mechanism. **G'hīnamā** restores the biblical concept of judgment as the natural consequence of a life lived outside of covenant. It is the state of being discarded as worthless refuse, your potential and purpose utterly wasted. This aligns with the Preterist understanding of judgment executed in AD 70 and the Psalm 82 verdict that the wicked "die like men."
 
@@ -65,7 +74,7 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ### 3.5. 'Anānā (ܐܢܐ) - The Divine I AM
 
-> **Restored Definition:** "I Myself," a declaration of a **state of divine being**. This is not a simple pronoun but an ontological statement that echoes Yahweh's declaration of "Ehyeh" ("I AM") in Exodus 3:14.
+**Restored Definition:** "I Myself," a declaration of a **state of divine being**. This is not a simple pronoun but an ontological statement that echoes Yahweh's declaration of "Ehyeh" ("I AM") in Exodus 3:14.
 
 **Theological Impact:** This restoration refutes the modern, vague notion that Jesus is merely "a way" or a path to a higher consciousness. **'Anānā** establishes His exclusive claim as the **embodiment of the Logos** (John 1:14), the one and only path to the Father. He is not a guide; He *is* the way.
 
@@ -73,7 +82,7 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ### 3.6. Ḥemwātā (ܚܢܘܬܐ/ܚܡܘܬܐ) - The Experiential Firmness
 
-> **Restored Definition:** "Firmness and stability that comes from lived experience." This is not blind assent but a deep trust forged through the evidence of truth in action.
+**Restored Definition:** "Firmness and stability that comes from lived experience." This is not blind assent but a deep trust forged through the evidence of truth in action.
 
 **Theological Impact:** Modern "faith" is often portrayed as a blind leap, a belief in things unseen and unproven. **Ḥemwātā** restores the biblical concept of faith as a **faithfulness** that is built on a foundation of evidence. It is the stability that comes from seeing God's promises proven true, from the witness of the resurrection (1 Corinthians 15) to the observable realities of creation (e.g., heritable traits).
 
@@ -81,7 +90,7 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ### 3.7. Bar Nashā (ܒܪܢܫܐ) - The Human Prototype
 
-> **Restored Definition:** "The human one," the **fully realized prototype** of what humanity was created to be.
+**Restored Definition:** "The human one," the **fully realized prototype** of what humanity was created to be.
 
 **Theological Impact:** "Son of Man" is often seen as a simple title emphasizing Jesus' humanity. **Bar Nashā** is far more profound. It presents the Messiah as the demonstration of humanity's full potential, the perfect union of the divine and the human, exercising dominion as God's regent on Earth as envisioned in Psalm 8.
 
@@ -89,11 +98,58 @@ The following table summarizes the seven key Aramaic restorations, moving from t
 
 ---
 
-## 4. Conclusion
+## 4. NationOS Integration Points
+
+This SPINT integrates with the following NationOS frameworks:
+
+### Household-OS
+- **Msk (Surrendered State):** Core principle of patriarchal leadership
+- **Bar Nashā (Human Prototype):** Model for raising covenant children
+
+### Sovereign Stack Economics
+- **Tūb (Return):** Foundation of Jubilee economic model
+- **Ḥōbā (Relational Obligation):** Undergirds anti-usury covenant lending
+- **Ḥemwātā (Experiential Firmness):** Basis for sovereignty metrics and proof-based economics
+
+### Covenant Architecture
+- **'Anānā (Divine Embodiment):** Establishes exclusive, code-as-law foundation
+- **G'hīnamā (Wasted Potential):** Informs demographic preservation strategies
+
+### Priesthood Protocol
+- **All Seven Restorations:** Provide linguistic precision for covenant teaching and discipleship
+
+---
+
+## 5. Action Items
+
+1. **Cross-Reference Integration:** Link this SPINT from `THEOLOGICAL_FRAMEWORK.md` and `Priesthood_Protocol.md` in future updates.
+
+2. **Educational Content:** Develop teaching materials (video, podcast, or written) on the seven restorations for community onboarding.
+
+3. **Liturgical Integration:** Incorporate these Aramaic terms into NationOS worship and teaching protocols.
+
+4. **Translation Review:** Apply these restorations to review existing NationOS documents for linguistic precision.
+
+---
+
+## 6. References
+
+[1] AramaicScriptures.com, *The Aramaic New Testament (Peshitta)*.
+
+[2] The Khabouris Codex (5th Century Aramaic Manuscript).
+
+[3] Deuteronomy 30:2 - The call to return (*shuwb*) to covenant.
+
+[4] Psalm 82:6-7 - Divine Council judgment on the wicked.
+
+[5] John 1:14 - The Logos embodied.
+
+[6] 1 Corinthians 15 - Resurrection evidence.
+
+---
+
+## Conclusion
 
 The seven Aramaic restorations—**Return, Surrender, Obligation, Waste, Embodiment, Firmness, and Prototype**—are not minor theological tweaks. They are a fundamental rescripting of our operational language. They liberate us from the distorted frameworks of our enemies and restore the power and precision of the original covenant. By integrating these truths into our documentation, our protocols, and our culture, we ensure that NationOS is built not on the shifting sands of modern theology, but on the enduring rock of God's revealed Word.
 
-### References
-
-[1] AramaicScriptures.com, *The Aramaic New Testament (Peshitta)*.
-[2] The Khabouris Codex (5th Century Aramaic Manuscript).
+**The Scribe serves the Architect. The SPINT serves the mission.**
