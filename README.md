@@ -26,8 +26,10 @@ This repository contains:
 ### Sovereign Link Hub
 **Covenant Bureau Network (Link Hub):** https://libertythroughtruthfoundation.github.io/nationos-website/links.html
 
-### Strategic Documentation Space
+### Strategic Documentation Space (The Inner Court)
 **Sovereign Architecture Docs:** https://sovereign-docs-btsfmx8r.manus.space/
+
+This is the live, public-facing interface for the NationOS ARK, providing access to the Three Canons and our complete operational framework. It serves as the digital "Third Canon," the field manual for Covenant Warfare in the Digital Age.
 
 ### GitHub Repositories
 
