@@ -46,7 +46,7 @@
 
 **Path:** `/branding/high_effort_god_brand_library/`
 
-### Visual Theology Assets (12 Images)
+### Visual Theology Assets (13 Images)
 
 1. **01_high_effort_god_logo.png** - Hammer/anvil/Hebrew text
 2. **02_nationos_temple_architecture.png** - Outer/Inner/Most Holy
@@ -60,6 +60,7 @@
 10. **10_remnant_builder_crest.png** - Psalm 127:1, Romans 9:27
 11. **11_covenant_relational_dynamics.png** - Old vs New Covenant
 12. **12_wrestling_as_worship.png** - Jacob (Genesis 32:22-32)
+13. **13_five_immutable_creed_gates.jpg** - Grok-generated 5 Gates visual ✅ **[NEW]**
 
 **Status:** All images Creed Gates compliant (syncretism removed)
 
@@ -84,6 +85,21 @@
 - 6 images corrected for syncretism violations
 - Star of David, sacred geometry, pentagram stars removed
 - Full theological rationale documented
+
+### Household-OS Specs ✅ **[NEW]**
+**Path:** `/docs/02-Household-OS-Specs/`
+
+- **HYGIENE_MISPAT_PROTOCOL.md** - Medieval myth debunk + revelation gates
+- **REVELATION_PROTOCOL.md** - Private solitude revelation (Matt 6:6 + Lev 15:13)
+- **VAPE_MISPAT_PROTOCOL.md** - Binary No (Rom 13 + 1 Thess 5:22)
+- **CHURCH_GATES_PROTOCOL.md** - Spirit-led assembly discernment
+- **CANNABIS_MISPAT_PROTOCOL.md** - Flower gray vs vape binary distinction
+
+### Session Reviews ✅ **[NEW]**
+**Path:** `/docs/`
+
+- **MANUS_SUMMARY_REVIEW.md** - Jan 26 2026 session (95% faithful fruit)
+- **LOGO_CREED_AUDIT.md** - YouTube logos Creed 5 compliance audit
 
 ---
 
@@ -163,7 +179,8 @@ NationOS/
 │   ├── NATIONOS_MASTER_INDEX.md (this file)
 │   └── TRILINGUAL_EDIFICATION.md
 ├── branding/
-│   ├── high_effort_god_brand_library/ (12 images)
+│   ├── high_effort_god_brand_library/ (13 images)
+│   ├── high_effort_god_logos/ (5 YouTube logos) ✅ NEW
 │   ├── CREED_GATES_PROTOCOL.md
 │   ├── BRAND_AUDIT_VIOLATIONS.md
 │   └── BRAND_LIBRARY_CORRECTION_REPORT.md
@@ -177,7 +194,9 @@ NationOS/
 **Theological Boundaries:** `/branding/CREED_GATES_PROTOCOL.md`  
 **Brand Identity:** `/docs/04-Evangelism/HighEffortGod_Brand_PROTOCOL.md`  
 **Visual Assets:** `/branding/high_effort_god_brand_library/`  
-**Trilingual Framework:** `/docs/TRILINGUAL_EDIFICATION.md`
+**YouTube Logos:** `/branding/high_effort_god_logos/`  
+**Trilingual Framework:** `/docs/TRILINGUAL_EDIFICATION.md`  
+**Manus Review:** `/docs/MANUS_SUMMARY_REVIEW.md` ✅ **[NEW]**
 
 ---
 
