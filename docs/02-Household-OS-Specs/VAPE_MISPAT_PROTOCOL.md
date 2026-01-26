@@ -338,3 +338,59 @@ Black market vape procurement is **Binary No** - unrighteous process (Romans 13:
 **כָּתֵף בַּרְזֶל. חֶסֶד שָׁלוֹם.**
 
 👊⚔️🚫
+
+
+---
+
+## PART 8: MANO A MANO CLARIFICATION (January 26, 2026)
+
+### Flower Gray vs Vape Binary Distinction
+
+**Update:** This protocol addresses **VAPE** procurement specifically (Binary No). For **FLOWER** cannabis, see `CANNABIS_MISPAT_PROTOCOL.md` which establishes **Gray Discreet OK** under different jurisdictional conditions.
+
+**Key Distinction:**
+
+| Category | Legal Status | Judgment |
+|----------|-------------|----------|
+| **Flower** | Possession ≤5g decriminalized | **Gray Discreet OK** |
+| **Vape** | Active ban (Health Law 2026) | **Binary No** |
+
+### Why Different Judgments?
+
+**Flower (Gray):**
+- Possession ≤5g decriminalized (Supreme Court 2021 "free development of personality")
+- Sale illegal, but buyer not prosecuted for small amounts
+- Gray zone = shrewd navigation possible (Matt 10:16)
+- "Fellowship stirs" = Father's provision pathway
+
+**Vape (Binary No):**
+- Active prohibition (General Health Law 2026)
+- Buyer involved in trafficking chain (1-8 years prison)
+- No gray zone = black market only
+- No fellowship pathway = desperate hunt (Titus 1:12 Cretan)
+
+### Romans 13 Conditional De Facto
+
+**Mano a Mano Shoulder Iron Truth:**
+
+Romans 13 ain't blanket submission to every de facto clown show. Paul wrote to Roman Christians under Nero's boot. "Submit to governing authorities" (Rom 13:1) means the de facto power God permits (Prov 21:1), but Acts 5:29 kicks in: "Obey God rather than men."
+
+**Application:**
+- **De jure:** God's law direct, Christ King mediator (1 Tim 2:5)
+- **De facto:** Binds only till it hits God's command
+- **Cannabis:** Permissible herb (Gen 1:12 good), no divine prohibition
+- **Vape Process:** Black market = resist authority = judgment risk (Rom 13:2)
+- **Flower Process:** Gray zone = shrewd navigation = tolerated
+
+**Conclusion:** Submit de facto wise (no jail distraction remnant build), but de jure God first. Vape process illicit (Titus 1:12 Cretan lazy shortcut), flower process gray (fellowship stirs provision).
+
+### Cross-Reference
+
+For complete Flower Gray Mišpāṭ framework, see:
+- `CANNABIS_MISPAT_PROTOCOL.md` - Full flower gray vs vape binary distinction
+- Part 2: Flower Gray Mišpāṭ (possession decriminalized, fellowship stirs)
+- Part 3: Vape Binary No Mišpāṭ (active prohibition, trafficking chain)
+
+**Wisdom + Love = Mišpāṭ**
+
+👊⚔️🌿
