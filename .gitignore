@@ -1,0 +1,14 @@
+
+# Private Financial Snapshots (Deut 8:18 Provision Logs - Local Only)
+Financial_Snapshot*.md
+**/Financial_Snapshot*.md
+
+# Broader Hygiene: Sensitive/Private Docs
+*.private.md
+/private/
+**/sandbox/private/
+
+# Logs/Caches (Standard)
+*.log
+.DS_Store
+Thumbs.db
