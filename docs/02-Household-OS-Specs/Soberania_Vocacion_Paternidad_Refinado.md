@@ -51,23 +51,41 @@ El modelo definitivo es el mismo Mesías. Se separó del Padre para cumplir Su m
 
 ---
 
-## **IV. PATERNIDAD: EL ARQUERO, NO EL ANCLA (SALMO 127)**
+## **IV. PATERNIDAD: EL ARQUERO, NO EL ANCLA (SALMO 127 AMPLIADO)**
 
-El mundo moderno ha reducido la paternidad a la proximidad física. El modelo bíblico es mucho más profundo.
+El mundo moderno ha reducido la paternidad a la proximidad física. El modelo bíblico es mucho más profundo, presentando al padre como un **arquero**, un constructor de legado y un defensor de su linaje.
 
-### **Salmo 127: El Arquero y las Flechas**
+### **La Arquitectura de la Familia (Salmo 127)**
 
-Un padre no es un ancla, destinada a mantener a sus hijos cerca. Él es un **arquero**. Su papel es:
+La metáfora del arquero proporciona un modelo arquitectónico completo para la familia soberana:
 
-1.  **Construir un Arco Fuerte:** Su carácter, sabiduría y los sistemas soberanos que crea.
-2.  **Forjar Flechas Rectas:** Criar a sus hijos en la verdad y la fortaleza.
-3.  **Apuntar a un Objetivo Digno:** Un futuro de libertad y propósito que el sistema actual no puede ofrecer.
+| Componente | Simbolismo | Escritura/Contexto |
+| :--- | :--- | :--- |
+| **El Arco (Padre)** | Fortaleza, sistemas soberanos, el pilar fundamental | Salmo 127:1, Génesis 27:3 |
+| **La Cuerda (Madre/Ezer)** | Vínculo del pacto, tensión, nutrición, resiliencia | Efesios 5:22-33, Proverbios 31:25, Génesis 9:13 |
+| **Las Flechas (Hijos/Niños)** | Rectos, entrenados en la verdad, la herencia y el futuro de la familia | Salmo 127:5, Levítico 25, Deuteronomio 25 |
+| **El Emplumado (Estabilidad)** | Mentores, fe, comunidad, equilibrio | 2 Samuel 1:22 |
+| **La Muesca (Conexión)** | El vínculo con la familia, preparación para la misión | 2 Reyes 13:17-19 |
+| **El Blanco (Legado)** | Triunfo sobre los enemigos, autoridad en las puertas, una herencia duradera | Génesis 10:9, Salmo 127:5 |
 
-Desde esta perspectiva, la ubicación física es secundaria a la **dirección y velocidad** que proporciona. Un padre que se mantiene cerca pero apunta a sus hijos hacia un sistema en colapso está fallando. Un padre que puede estar físicamente distante pero está construyendo un arco fuerte y apuntando a sus hijos hacia un futuro soberano, aprovechando herramientas como la telepresencia para verter en ellos calidad e intención, está cumpliendo su más alto llamado.
+### **Contexto Antiguo: No "Lanzar y Dejar"**
+
+La interpretación moderna de "lanzar" flechas al mundo es una mala interpretación cultural. En el antiguo Israel, los hijos eran una fuente de **seguridad y autoridad en las puertas de la ciudad.** Estaban con su padre en disputas legales y militares, redimían la tierra familiar (Levítico 25) y preservaban el nombre de la familia (Deuteronomio 25). Este es un modelo de fuerza multigeneracional, no de separación individualista.
+
+### **Padres Arqueros Bíblicos: Modelos de Legado**
+
+- **Isaac:** El cazador que otorga bendición y herencia (Génesis 27:3).
+- **Nimrod:** El poderoso cazador y constructor de ciudades en el mundo post-diluviano (Génesis 10:9).
+- **David:** El guerrero triunfante cuyas flechas nunca fallaron (2 Samuel 1:22).
+- **Eliseo:** El profeta que dirigió la flecha de la liberación del SEÑOR para Israel (2 Reyes 13:17-19).
+
+### **El Arco Iris del Pacto: El Arco de YHWH (Génesis 9:13)**
+
+La máxima expresión de la metáfora del arco es el arco iris. Es el **arco de guerra (qešet) de YHWH** colgado en los cielos, una promesa del pacto de que ha depuesto Su arma de ira. Esto transforma el papel del padre: su fuerza (arco) es un instrumento del pacto de misericordia y legado, no de poder personal.
 
 ### **El Binario de Efesios 5: Liderazgo y Ezer**
 
-Este llamado es un binario, con el hombre y la mujer en roles complementarios (Efesios 5:22-33). El hombre es la **cabeza**, el pilar, el proveedor inamovible que se para en las puertas (Salmo 127:5). La mujer es la **ezer**, la ayuda resiliente, que edifica el hogar y se ríe de los días venideros (Proverbios 31:25). Esta asociación es el motor de un hogar soberano.
+Este llamado es un binario (Efesios 5:22-33). El hombre es la **cabeza**, el pilar, el arquero que se para en las puertas. La mujer es la **ezer**, la ayuda resiliente, la cuerda del pacto que completa el arco. Esta asociación es el motor de un hogar soberano.
 
 ---
 
