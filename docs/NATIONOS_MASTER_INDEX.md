@@ -94,6 +94,8 @@
 - **VAPE_MISPAT_PROTOCOL.md** - Binary No (Rom 13 + 1 Thess 5:22)
 - **CHURCH_GATES_PROTOCOL.md** - Spirit-led assembly discernment
 - **CANNABIS_MISPAT_PROTOCOL.md** - Flower gray vs vape binary distinction
+- **Complementary_Partnership_Recovery.md** ✅ **[NEW]** - Archer/Bow theology + biblical/modern examples (Hormozi)
+- **Archer_Without_the_Bow.md** ✅ **[NEW]** - Crypto projects need complementary partnerships (PulseChain vs CryptoTips)
 
 ### Session Reviews ✅ **[NEW]**
 **Path:** `/docs/`
