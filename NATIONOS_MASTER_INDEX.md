@@ -149,6 +149,7 @@
 ### Theological Frameworks
 - **Multi-Canon Base:** Masoretic, Septuagint, Dead Sea Scrolls, Ethiopian Canon (81 books)
 - **Divine Council Worldview:** Deut 32:8 (בְּנֵי אֱלֹהִים - bene elohim), Ps 82:8, Eph 6:12
+- **Used By God ≠ Of God:** [Functional vs Relational Anointing](./docs/01-Divine-Council-Framework/Used_By_God_Not_Of_God.md) - Cyrus/Trump and Osborne/Atropa parallels, discernment framework for anointed vessels
 - **Covenant Headship:** Sovereign headship, Sarah co-regent (99% gates), Ezer kenegdo framework
 - **Pharaoh Positive Flip:** Prov 21:1 heart streams, permissive/directive will integration
 
