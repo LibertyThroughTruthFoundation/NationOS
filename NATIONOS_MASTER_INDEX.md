@@ -88,6 +88,14 @@
 - [ark-architecture/](./ark-architecture/) - Temple structure and sacred geometry
   - [README.md](./ark-architecture/README.md)
 
+### Household OS Protocols
+- [docs/02-Household-OS-Specs/](./docs/02-Household-OS-Specs/) - Covenant household formation and governance
+  - [REMNANT_EZER_DISCERNMENT_PROTOCOL.md](./docs/02-Household-OS-Specs/REMNANT_EZER_DISCERNMENT_PROTOCOL.md) - Testing covenant fit in real time
+  - [CANNABIS_MISPAT_PROTOCOL.md](./docs/02-Household-OS-Specs/CANNABIS_MISPAT_PROTOCOL.md)
+  - [CHURCH_GATES_PROTOCOL.md](./docs/02-Household-OS-Specs/CHURCH_GATES_PROTOCOL.md)
+  - [HYGIENE_MISPAT_PROTOCOL.md](./docs/02-Household-OS-Specs/HYGIENE_MISPAT_PROTOCOL.md)
+  - [VAPE_MISPAT_PROTOCOL.md](./docs/02-Household-OS-Specs/VAPE_MISPAT_PROTOCOL.md)
+
 ### Technical Documentation
 - [docs/](./docs/) - Comprehensive technical specifications
   - [SPINT_FORMAT_DEFINITION.md](./docs/SPINT_FORMAT_DEFINITION.md)
