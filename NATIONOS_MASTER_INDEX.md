@@ -158,6 +158,7 @@
 - **Multi-Canon Base:** Masoretic, Septuagint, Dead Sea Scrolls, Ethiopian Canon (81 books)
 - **Divine Council Worldview:** Deut 32:8 (בְּנֵי אֱלֹהִים - bene elohim), Ps 82:8, Eph 6:12
 - **Used By God ≠ Of God:** [Functional vs Relational Anointing](./docs/01-Divine-Council-Framework/Used_By_God_Not_Of_God.md) - Cyrus/Trump and Osborne/Atropa parallels, discernment framework for anointed vessels
+- **Roosevelt Theological Divergence:** [Egalitarian Universalism vs Ordered Loves](./docs/01-Divine-Council-Framework/ROOSEVELT_THEOLOGICAL_DIVERGENCE.md) - Comprehensive analysis of progressive/social justice gospel errors, manipulation tactics, and biblical alternative
 - **Covenant Headship:** Sovereign headship, Sarah co-regent (99% gates), Ezer kenegdo framework
 - **Pharaoh Positive Flip:** Prov 21:1 heart streams, permissive/directive will integration
 
