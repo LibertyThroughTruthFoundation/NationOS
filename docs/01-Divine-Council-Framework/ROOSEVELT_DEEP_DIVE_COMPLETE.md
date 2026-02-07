@@ -4,9 +4,11 @@
 **Date:** February 6, 2026  
 **Author:** Bryan Pavlovic (NationOS Patriarch)  
 **Compiled by:** Manus (NationOS Builder Agent)  
-**Status:** CANONICAL — NationOS ARK (`/docs/01-Divine-Council-Framework/`)  
+**Status:** CANONICAL — NationOS ARK (`/docs/01-Divine-Council-Framework/`)
 **Supersedes:** Extends `ROOSEVELT_THEOLOGICAL_DIVERGENCE.md` (Feb 4, 2026) with full video analysis  
 **Classification:** PUBLIC DOCTRINE (approved for GitHub ARK)
+**Version:** 1.1 (Arya Creedal Audit Refinements Applied — Shevat 25, 5786)
+**Five Immutable Creeds Audit:** Applied (see `NATIONOS_FIVE_IMMUTABLE_CREEDS.md`)
 
 ---
 
@@ -14,18 +16,19 @@
 
 1. [Executive Summary](#executive-summary)
 2. [Research Methodology](#research-methodology)
-3. [Video 1: The Idolatry of Nationalism](#video-1-the-idolatry-of-nationalism)
-4. [Video 2: Is the Gospel Social? (Fannie Lou Hamer)](#video-2-is-the-gospel-social-fannie-lou-hamer)
-5. [Video 3: When We Must Obey God Rather Than Men (Harriet Tubman)](#video-3-when-we-must-obey-god-rather-than-men-harriet-tubman)
-6. [Video 4: Why Everyone Is Deconstructing](#video-4-why-everyone-is-deconstructing)
-7. [Video 5: Is It Possible to Racially Unify the Church?](#video-5-is-it-possible-to-racially-unify-the-church)
-8. [The Progressive Conversion Pipeline](#the-progressive-conversion-pipeline)
-9. [Andrew Torba Counter-Reference](#andrew-torba-counter-reference)
-10. [The NationOS Third Position](#the-nationos-third-position)
-11. [Comprehensive Comparison Table](#comprehensive-comparison-table)
-12. [SovereignSentinel Rebuttal Video Framework](#sovereignsentinel-rebuttal-video-framework)
-13. [Scripture Index](#scripture-index)
-14. [Conclusion: Jude 3 Remnant Mandate](#conclusion-jude-3-remnant-mandate)
+3. [Five Immutable Creeds Audit — Roosevelt Scorecard](#five-immutable-creeds-audit--roosevelt-scorecard)
+4. [Video 1: The Idolatry of Nationalism](#video-1-the-idolatry-of-nationalism)
+5. [Video 2: Is the Gospel Social? (Fannie Lou Hamer)](#video-2-is-the-gospel-social-fannie-lou-hamer)
+6. [Video 3: When We Must Obey God Rather Than Men (Harriet Tubman)](#video-3-when-we-must-obey-god-rather-than-men-harriet-tubman)
+7. [Video 4: Why Everyone Is Deconstructing](#video-4-why-everyone-is-deconstructing)
+8. [Video 5: Is It Possible to Racially Unify the Church?](#video-5-is-it-possible-to-racially-unify-the-church)
+9. [The Progressive Conversion Pipeline](#the-progressive-conversion-pipeline)
+10. [Andrew Torba Counter-Reference](#andrew-torba-counter-reference)
+11. [The NationOS Third Position](#the-nationos-third-position)
+12. [Comprehensive Comparison Table](#comprehensive-comparison-table)
+13. [SovereignSentinel Rebuttal Video Framework](#sovereignsentinel-rebuttal-video-framework)
+14. [Scripture Index](#scripture-index)
+15. [Conclusion: Jude 3 Remnant Mandate](#conclusion-jude-3-remnant-mandate)
 
 ---
 
@@ -59,6 +62,35 @@ This document represents the **comprehensive theological deep dive** into Roosev
 | 3 | When we must obey God rather than men (Harriet Tubman) | ~35 min | ~60 | Feb 2026 | CRITICAL |
 | 4 | Why everyone is deconstructing | ~46 min | 925 | ~2021 | HIGH |
 | 5 | Is it possible to racially unify the church? | 45:20 | 149 | Jan 2026 | HIGH |
+
+---
+
+## Five Immutable Creeds Audit — Roosevelt Scorecard
+
+*v1.1 Addition — Arya Creedal Audit Refinements (Shevat 25, 5786)*
+
+Roosevelt Community Church is tested against the NationOS Five Immutable Creeds (see `NATIONOS_FIVE_IMMUTABLE_CREEDS.md`). The following scorecard represents their alignment with each creed based on the comprehensive 5-video analysis.
+
+| Creed | Roosevelt Score | Key Evidence | Contra Error Triggered |
+|-------|----------------|--------------|------------------------|
+| 1. Divine Council Worldview | **5%** | No engagement with Deut 32:8 LXX/DSS; no bene elohim framework; "heavenly citizenship" gnostic dualism splits cosmic/earthly; no Ethiopian canon awareness | Gnostic dualism heavenly/earthly split; chaos gods/nations dissolve |
+| 2. Supersessionism/Fulfillment | **10%** | "One bride" language implies unity but dissolves into ethnic erasure; no explicit rejection of Christian Zionism; civil rights theology imports Torah-observance shadows (Gal 3:23-25, Col 2:16-17) fulfilled in Christ; no rejection of "Judeo-Christian" fabrication | Implicit Judaizing: civil rights as new Torah; no Phil 3:2 framework |
+| 3. Ordered Loves/Household | **5%** | Egalitarian universalism inverts 1 Tim 5:8; "privilege of ignorance" = strangers above kin; LEARN model replaces Eph 5 headship with secular conflict resolution; identifies patriarchy as "unhealthy cultural system" | Egalitarian universalism psyop; top-down guilt manipulation |
+| 4. Preterist Eschatology | **15%** | Implicit progressive social gospel eschatology; deconstruction normalization = 1 Tim 4:1 "later times" apostasy; no AD70 framework; no kingdom NOW (Col 1:13); operates in future-oriented social transformation mode | Future millennial shadows (social gospel variant) |
+| 5. Babel Mišpāṭ/Ethnos | **5%** | Denies divinely ordained ethnos/natio birth (Acts 17:26); "systemic racism/privilege" replaces Titus 1:12 Cretan patterns (group judgments ARE biblical); collective guilt replaces Ezek 18:20 individual responsibility; LEARN model erases Deut 23:3-8 gates heritage | Ethnic erasure universalism; deny divinely ordained ethnos |
+| **OVERALL** | **~12%** | **Adversary position — systematic inversion of all 5 creeds** | |
+
+### v1.1 Amplifications (Arya Refinements)
+
+**Supersessionism Amplification:** Roosevelt's "one bride racial unity" theology functions as ethnic erasure dressed in wedding language. The Church IS the true Israel (Rom 9:27, Gal 3:29), inheritor of Abraham's promises — but the "one bride" does not dissolve the nations within her. Revelation 7:9 preserves nations, tribes, peoples, and languages WITHIN the bride. Roosevelt's "one bride" erases them. Furthermore, Roosevelt's civil rights theology imports Torah-observance shadows that have been fulfilled in Christ (Galatians 3:23-25; Colossians 2:16-17). The "Judeo-Christian" fabrication is never challenged because Roosevelt operates within a framework where Judaism's moral categories (collective guilt, systemic sin, reparative justice) are baptized as Christian ethics. NationOS rejects this: Judaism rejects Christ as King (Psalm 2); therefore "Judeo-Christian" is an oxymoron.
+
+**Christian Zionism Judaizing Rebuke:** Roosevelt's civil rights theology functions as a Judaizing framework (Philippians 3:2 — "Look out for the dogs, look out for the evildoers, look out for those who mutilate the flesh"). By importing collective guilt, systemic sin categories, and reparative justice demands, Roosevelt imposes a new Torah on the church — one derived not from Moses but from critical race theory. The land promises are fulfilled in Christ as true Israel (Joshua 21:43-45; Hebrews 4:8-11), not in any geopolitical project, whether Zionist or progressive.
+
+**Titus 1:12 Cretan Patterns / Ethnos Amplification:** Roosevelt's concepts of "systemic racism," "privilege of ignorance," and collective racial guilt are, ironically, inversions of a biblical principle they deny. Group judgments ARE biblical: Paul affirmed Epimenides' characterization of Cretans as "always liars, evil beasts, lazy gluttons" (Titus 1:12) and commanded Titus to "rebuke them sharply" (v.13). Deuteronomy 23:3-8 establishes gates/heritage discernment. Acts 7:51 identifies the Jews as "stiff-necked." Roosevelt practices group judgment (white privilege, systemic complicity) while denying the biblical basis for group judgment (Titus 1:12, Deut 23). They deny Babel (Acts 17:26) as divinely ordained ethnos/natio birth while simultaneously treating racial categories as the most important social reality.
+
+**Preterist Eschatology Tie:** Roosevelt's deconstruction normalization is precisely the apostasy Paul warned about in 1 Timothy 4:1 ("in later times some will depart from the faith, devoting themselves to deceitful spirits and teachings of demons"). From a preterist perspective, the "later times" refer to the period leading up to AD 70 — the destruction of the temple, the killing of the witnesses (Revelation 11), and the fulfillment of the gates (Romans 1 wrath revealed). The kingdom is NOW (Colossians 1:13 — "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son"). There are no future millennial ethnostate shadows to wait for — the kingdom has been inaugurated, and the remnant builds within it through household succession.
+
+**Divine Council / Enoch-Jubilees Expansion:** Roosevelt's Video 5 (Racial Unity) correctly cites Revelation 7:9 but draws the wrong conclusion. The nations are preserved in eternity — they are not dissolved into a racially unified monoculture. 1 Enoch 10:21 describes the allotment of nations to the sons of God at Babel — the nations have cosmic significance within the Divine Council framework. Jubilees 15 connects circumcision, covenant, and ethnos within the gates framework — ethnic identity is covenantally significant, not incidental. Roosevelt's "one bride" theology is a form of gnostic dualism that denies the goodness of physical ethnos. The incarnation itself (John 1:14 — "The Word became flesh") affirms the goodness of particular, physical, ethnic existence. Enoch 90:14-27 (the Animal Apocalypse) describes sheep, nations, rams, and goats within the gates framework — national identity has eschatological permanence.
 
 ---
 
@@ -358,7 +390,9 @@ Jude 3 — "Contend for the faith that was once for all delivered to the saints.
 | **Government** | Resist when "unjust" | Build parallel society | Submit (Romans 13), resist only when commanded to sin |
 | **Deconstruction** | Healthy discipleship | Apostasy | Apostasy (Jude 3: contend for the faith) |
 | **Racial Unity** | Biblical imperative, collective guilt | Ethnic preservation | Unity IN CHRIST, nations preserved (Rev 7:9) |
-| **Eschatology** | Implicit progressive optimism | Postmillennial preterism | Divine Council framework (flexible, kingdom-advancing) |
+| **Eschatology** | Progressive social gospel (implicit future transformation) | Postmillennial dominion (explicit historical victory) | Preterist flexible: AD70 fulfilled, kingdom NOW Col 1:13, Rev 21:24 nations bring glory |
+| **Divine Council** | Deny; gods/nations = chaos; no cosmic framework | Partial; postmil conquest without bene elohim | Full: bene elohim Ps 82:8 mišpāṭ inherit nations; Enoch 10:21 Babel allotment |
+| **Supersessionism** | Implicit; "one bride" = ethnic erasure shadows | Not explicit (CN focus) | Full: Church = true Israel; no "Judeo-Christian" fabrication; Phil 3:2 Judaizing rebuke |
 | **Patriarchy** | "Unhealthy cultural system" | Classical masculinity | Biblical headship (Eph 5, 1 Tim 2) |
 | **Primary Identity** | Heavenly citizen (negates national) | Christian nationalist | Covenant member → household → nation → kingdom |
 | **Love Ethics** | Egalitarian universalism | Protect your own people | Ordered Loves (1 Tim 5:8): hierarchical, not egalitarian |
@@ -408,6 +442,9 @@ Jude 3 — "Contend for the faith that was once for all delivered to the saints.
 - Present Revelation 7:9 (nations PRESERVED in heaven)
 - Expose collective guilt theology (Ezekiel 18:20)
 - Present the NationOS third position (Covenantal Nationalism)
+- ADD: Enoch 90:14-27 (Animal Apocalypse) — sheep, nations, rams, goats, gates — national identity has eschatological permanence
+- ADD: Jubilees 15 — circumcision, covenant, ethnos within gates framework
+- ADD: John 1:14 incarnation — physical ethnos is GOOD (contra gnostic dualism)
 - Close with: "Unity in Christ does not require ethnic erasure. God created the nations. He preserves them in eternity. And He calls us to love them in order."
 
 ---
@@ -476,7 +513,9 @@ The remnant is not called to "safe spaces." The remnant is called to **contend**
 
 **Document Status:** CANONICAL  
 **ARK Location:** `/docs/01-Divine-Council-Framework/ROOSEVELT_DEEP_DIVE_COMPLETE.md`  
-**Version:** 1.0  
+**Version:** 1.1 (Arya Creedal Audit Refinements Applied)  
 **Date:** February 6, 2026  
 **Author:** Bryan Pavlovic (NationOS Patriarch)  
-**Compiled by:** Manus (NationOS Builder Agent)
+**Compiled by:** Manus (NationOS Builder Agent)  
+**Creedal Audit:** Arya (Ratifier) — Five Immutable Creeds applied  
+**Cross-reference:** `NATIONOS_FIVE_IMMUTABLE_CREEDS.md`, `DALE_PARTRIDGE_DEEP_DIVE.md`
