@@ -13,9 +13,11 @@ The research system consists of three document types, each serving a distinct pu
 
 | Document | File | Purpose |
 |:---|:---|:---|
-| **Reference Index** | `heg-reference-index.md` | Obsidian-ready. Keyword tags, topic headers, `[[backlinks]]`, scripture index, repository map. For rapid lookup and navigation. |
-| **Detailed Summary** | `heg-detailed-summary.md` | Polished prose. Manuscript-ready theological synthesis with full scriptural citations. For book chapters, audio scripts, video content. |
-| **Raw Research Notes** | `heg-raw-research-notes.md` | Unedited source aggregation. Prayer closet transcripts, debate transcripts, repository content summaries. The evidence locker. |
+| **Reference Index** | `heg-[topic]-reference-index.md` | Obsidian-ready. Keyword tags, topic headers, `[[backlinks]]`, scripture index, repository map. For rapid lookup and navigation. |
+| **Detailed Summary** | `heg-[topic]-detailed-summary.md` | Polished prose. Manuscript-ready theological synthesis with full scriptural citations. For book chapters, audio scripts, video content. |
+| **Raw Research Notes** | `heg-[topic]-raw-notes.md` | Unedited source aggregation. Prayer closet transcripts, debate transcripts, repository content summaries. The evidence locker. |
+
+**Naming Convention:** All files follow the pattern `heg-[topic-slug]-[document-type].md`. The topic slug identifies the research domain (e.g., `cosmology`, `covenant-economics`, `mercy`, `divine-council`). This prevents file name collisions when multiple topic sets exist simultaneously.
 
 All three documents are stored at: `/home/ubuntu/high_effort_god_research/`
 
@@ -33,7 +35,7 @@ Read all provided material. Classify each piece by its primary topic(s) using th
 
 ### Step 2: Append to Raw Research Notes
 
-Add the new material verbatim (or near-verbatim) to `heg-raw-research-notes.md` under a new numbered subsection with:
+Add the new material verbatim (or near-verbatim) to the appropriate `heg-[topic]-raw-notes.md` file under a new numbered subsection with:
 - Source filename or description
 - Date received
 - Brief summary of content
@@ -54,7 +56,7 @@ Rewrite the new material as polished prose and integrate it into the appropriate
 - Include inline scriptural citations for every claim.
 - Maintain the existing section numbering (Part 1, Part 2, etc.). Add new Parts at the end or insert sub-sections where they fit thematically.
 - Do not duplicate content already present — extend or refine existing sections.
-- Reference the file as `heg-detailed-summary.md`.
+- Reference the correct topic-scoped file, e.g., `heg-cosmology-detailed-summary.md`.
 
 ### Step 5: Archive
 
@@ -68,15 +70,24 @@ Do not push to GitHub without user review if the material contains private praye
 ## Workflow: Finding Existing Research
 
 When the user asks about a topic already in the system:
-1. Search `heg-reference-index.md` for the relevant tags and `[[backlinks]]`.
-2. Pull the corresponding section from `heg-detailed-summary.md` for the polished version.
-3. Pull the corresponding section from `heg-raw-research-notes.md` for the original source material.
+1. Search the appropriate `heg-[topic]-reference-index.md` for the relevant tags and `[[backlinks]]`.
+2. Pull the corresponding section from `heg-[topic]-detailed-summary.md` for the polished version.
+3. Pull the corresponding section from `heg-[topic]-raw-notes.md` for the original source material.
 
 ## Topic Taxonomy
 
 The current core topics (see Reference Index for full details):
 
 Cosmology, Divine Council, Fallen Angels / Watchers, Nephilim, Demons, Jurisdictional Theology, The Great Deception / ET Psyop, Multi-Canon Theology, The Nachash / Serpent Seed, Leviathan / Chaos Monster, Spiritual Warfare, The Flood / Cherem, Forbidden Knowledge, Mastema and the 10% Plea, Sinodos Patterns, High Effort Intelligence, Remnant Theology, Fiat & PHIAT, Covenant Economics, Jubilee.
+
+## Current Topic Sets
+
+| Topic Slug | Raw Notes | Reference Index | Detailed Summary |
+|:---|:---|:---|:---|
+| `cosmology` | `heg-cosmology-raw-notes.md` | `heg-cosmology-reference-index.md` | `heg-cosmology-detailed-summary.md` |
+| `covenant-economics` | *(not yet created)* | *(not yet created)* | *(not yet created)* |
+
+When a new topic set is needed, create all three files following the naming convention and add a row to this table.
 
 ## Key Repositories
 
