@@ -199,20 +199,4 @@ This section maps the locations of all known research files across GitHub and Go
 | `Combed through convos for the Nation/` | `Mordechai & Clement Divine Council Response Analysis.md`, `Divine Council Strategic Options...md` | Earlier Divine Council operational docs |
 
 
-### **Fiat & PHIAT**
-- **Tags:** #fiat #phiat #stewardship #dominion_mandate #dual_jars
-- **Key Passages:** Luke 1:38, Genesis 1:3, Psalm 37:25, 1 Timothy 5:8
-- **Core Idea:** The distinction between God's creative fiat ("let it be") and man's fiat currency. PHIAT (Property, Health, Income, Assets, Time) is the biblical stewardship framework that flows from a covenantal "yes" (fiat) to God's plan, managed through the dual lenses of practical provision and cosmic purpose.
-- **See Also:** [[Covenant Economics]], [[Jubilee]]
 
-### **Covenant Economics**
-- **Tags:** #covenant_economics #capitalism #austrian_economics #jubilee #usury #ordered_loves
-- **Key Passages:** Leviticus 25, Deuteronomy 15, Deuteronomy 23:19-20, 1 Timothy 5:8
-- **Core Idea:** God's economic model, rooted in covenant fidelity, family/nation hierarchy, Sabbath/Jubilee cycles, and mutual edification. It stands in direct opposition to the profit-driven, individualistic, and debt-based engine of modern capitalism.
-- **See Also:** [[Jubilee]], [[Fiat & PHIAT]]
-
-### **Jubilee**
-- **Tags:** #jubilee #debt_release #sabbath_year #yobel #land_redemption #crypto_jubilee
-- **Key Passages:** Leviticus 25:8-55, Deuteronomy 15:1-6
-- **Core Idea:** The 50th-year (yobel) reset mechanism in God's law, commanding the release of debts, the freeing of slaves, and the return of ancestral land. It is a systemic safeguard against perpetual bondage and economic inequality, which can be manifested today through crypto smart contracts.
-- **See Also:** [[Covenant Economics]]
