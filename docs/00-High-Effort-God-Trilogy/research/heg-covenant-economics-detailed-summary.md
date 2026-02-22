@@ -119,3 +119,15 @@ By building on all three fronts simultaneously, the community can achieve a true
 [8] "The Covenant Stack README," *covenant-stack GitHub Repository*.
 
 [9] "Parallel Covenant Society Blueprint," *NationOS GitHub Repository*.
+
+
+### Part 7: The Maccabean Archetype and the Sovereignty Stack
+
+The story of Judas Maccabeus, as detailed in 2 Meqabyan, serves as a powerful archetype for the modern sovereign builder. Faced with a tyrannical regime (the Seleucid Empire) demanding pagan worship, the Maccabees did not merely retreat; they rose up to restore true worship and re-establish sovereign governance. This archetype informs the development of a modern 'sovereignty stack'—a parallel system of technology, law, and economics designed to resist the encroachment of tyrannical globalist systems and preserve a space for covenantal life.
+
+
+
+### Part 8: The Covenant Community Model (GodManMarkets.pls)
+
+The practical outworking of covenant economics is a sovereign community built on three pillars: a sovereign social/economic graph (the Network), a sovereign jurisdictional interface (the Bridge), and a sovereign capital engine (the Treasury). This model, exemplified by GodManMarkets.pls, provides a tangible alternative to the Babylonian system. Membership is based on a simple covenant of allegiance, creating a trusted network for commerce, mutual defense, and capital formation through mechanisms like the JUBILEE token and the Vault 369 protocol. Governance is based on the principle of the wheat and the tares (Matthew 13:24-30), where the gate of entry is a simple confession of faith, and the community itself serves as the refining fire.
+

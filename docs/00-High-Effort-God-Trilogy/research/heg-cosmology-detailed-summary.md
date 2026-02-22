@@ -126,3 +126,15 @@ This psalm is the key that unlocks the entire jurisdictional framework of Script
 | `What_is_the_Divine_Council_and.txt` | Google Drive (The_ARK) | Dec 2025 |
 | 34 additional NationOS GitHub files | Various directories | 2025-2026 |
 | 16+ Google Drive files | Various directories | 2025-2026 |
+
+
+### Part 7: The 144,000 and the Sealed Remnant
+
+The corruption of the human genome by the Watchers and their Nephilim offspring necessitated a divine countermove—the sealing of a remnant whose bloodline and allegiance remained pure. The 144,000, mentioned in the book of Revelation (7:4, 14:1), represent this sealed remnant. They are the firstfruits of a restored humanity, a covenant army set apart to stand against the tide of corruption and execute the judgments of God. Their sealing is not merely a matter of spiritual allegiance but a preservation of their physical and spiritual lineage, making them the ultimate antidote to the Nephilim project.
+
+
+
+### Part 8: The Sovereign Governance Pattern (2 Meqabyan)
+
+The Ethiopian canon, specifically the book of 2 Meqabyan, reveals a recurring sovereign governance pattern: God raises up a pagan power as an instrument of judgment against His own faithless people. After the judgment is complete, God then judges the instrument itself for its pride and cruelty. This pattern—seen with Assyria, Babylon, and Rome—provides a framework for understanding how God operates in geopolitics, even using seemingly ungodly entities to accomplish His purposes before holding them to account. This is the principle of divine jurisdiction in action.
+
