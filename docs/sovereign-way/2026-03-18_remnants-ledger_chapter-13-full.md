@@ -104,3 +104,24 @@ The temple is not yours to neglect. It is not yours to poison. It is not yours t
 2.  **The Food Audit.** Open your refrigerator and your pantry. How many of the products contain ingredients that your great-grandparents would not recognize? What percentage of your food comes from your own garden or from a local farmer you know personally?
 3.  **The Supply Chain Test.** If the grocery stores in your area closed for thirty days, how long could your family eat from the food you currently have stored? What would you need to change to extend that to ninety days?
 4.  **The Temple Assessment.** On a scale of one to ten, how well are you currently stewarding your physical body? What is one concrete change you can make this month to improve your nutrition, movement, sleep, or stress management?
+
+
+### The Mental Health Deception
+
+There is one more dimension of the *pharmakeia* system that demands attention: the psychiatric-pharmaceutical complex.
+
+The Squatter Regime has constructed an elaborate diagnostic framework (the DSM — Diagnostic and Statistical Manual) that pathologizes normal human responses to abnormal conditions. Grief is reclassified as "major depressive disorder." Childhood energy is reclassified as "attention deficit hyperactivity disorder." The anxiety that naturally arises from living in a collapsing, debt-saturated, spiritually bankrupt society is reclassified as "generalized anxiety disorder."
+
+Each diagnosis generates a prescription. Each prescription generates a dependency. Each dependency generates a customer for life.
+
+The Renaissance Steward recognizes that the vast majority of what the De Facto system calls "mental illness" is actually a rational spiritual and emotional response to living under occupation. You are not broken. You are living in a broken system, and your soul is telling you the truth about it.
+
+The Covenant Community addresses mental and emotional suffering through prayer, confession, community accountability, meaningful labor, and the restoration of right relationship with the Creator. We do not deny the reality of genuine neurological conditions that may require medical intervention. But we refuse to accept the wholesale medicalization of the human soul.
+
+When a brother or sister in the Covenant Community is struggling with despair, we do not hand them a pill and send them to a stranger's office for fifty minutes a week. We sit with them. We pray with them. We bear their burden with them. We help them identify the specific jurisdictional invasion that is producing the suffering—the debt, the isolation, the meaningless labor, the severed relationship with God—and we address it at the root.
+
+*"Carry each other's burdens, and in this way you will fulfill the law of Christ."* (Galatians 6:2)
+
+This is Covenant Health. It is not a product you purchase. It is a community you belong to. It is not a subscription to the pharmaceutical supply chain. It is a covenant with the people who will carry you when you cannot walk, and whom you will carry in return.
+
+The temple was not designed to be managed by a corporation. It was designed to be stewarded by a community, under the authority of the King who built it.
